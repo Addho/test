@@ -1,5 +1,8 @@
 # Awesome Penetration Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
+1) stored XSS that allows CSS injection. : {}*{xss:expression(open(alert(1)))}
+2) URL Rewriting.
+3) Relative addressing to CSS style sheet : ../style.css
 > A collection of awesome penetration testing resources.
 
 (javascript:prompt(1))
